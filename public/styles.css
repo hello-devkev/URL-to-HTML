@@ -1,0 +1,12 @@
+.result-container {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.scrollable-square {
+    overflow: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
